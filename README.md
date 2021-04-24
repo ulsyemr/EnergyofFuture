@@ -51,6 +51,4 @@ Any contributions you make are **greatly appreciated**.
 ## Contact
 
 Emre ULUSOY - [ulsyemr@gmail.com]()
-Fırat İNALKAÇ - [firatinalkac2@gmail.com]()
-Gülfidan Söylemez - [...@gmail.com]()
 
